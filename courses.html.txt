@@ -1,0 +1,83 @@
+<<!DOCTYPE html>
+<html lang="em">
+    <head>
+        <meta charset="UTF-8">
+        <title>Courses</title>
+        <link rel="stylesheet" href="assets/stylesheets/university.css">
+    </head>
+    <body>
+        <header>
+            <section class="head">
+            <div class="logo">
+            <img src="assets/stylesheets/Vignan_logo.png" width="200px" height="200px">
+            </div>
+            <div class="title">
+            <h1><div class="title1">VIGNAN's</div><br> Institute of Engineering for Women</h1>
+            </div>
+            <div class="address">
+            <h3>
+                Address: Vignan Institute of Engineering for Women,<br>
+                         Kapujaggarau peta,<br>
+                         duvvada, Visakhapatnam-530026.
+            </h3>
+            </div>
+            </section>
+            
+            <nav class="links">
+                <a href="university.html">Home</a>
+                <a href="register.html">Register</a>
+                <a href="courses.html">Courses</a>
+                <a href="contact.html">ContactUs</a>
+            </nav>
+            
+            
+        </header>
+        <hr>
+
+        <section class="home">
+            <h3 class="coursehead">This University offers 3 courses.</h3>
+                <section class="coursesteasers1"></section>
+                <section class="col-1-3">
+                        <h4>Computer Science and Engineering</h4>
+                        <p>Computer Science & Engineering (CSE) is an academic program at many universities which compromises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate discipline of informatics.Academic programs vary between colleges. Courses usually include introducy to programming, introducy to algorithms and data structures, computer architecture, operating systems, computer networks, parallel computing, embedded systems, algorithms design, circuit analysis and electronics, digital logic and processor design, computer graphics, cloud, web and mobile computing, scientific computing, software engineering, database systems, digital signal processing, virtualization, computer simulations and games programming. CSE programs also include core subjects of theoretical computer science such as theory of computation, numerical methods, machine learning, programming theory an </p>
+                     
+                </section>
+                <section class="col-1-3">
+                        <h4>Electrical and Electronics Engineering</h4>
+                        <p>Electrical engineering is an engineering discipline concerned with the study, design and application of equipment, devices and systems which use electricity, electronics, and electromagnetism. It emerged as an identifiable occupation in the latter half of the 19th century after commercialization of the electric telegraph, the telephone, and electrical power generation, distribution and use.
+
+                            Electrical engineering is now divided into a wide range of fields, including computer engineering, systems engineering, power engineering, telecommunications, radio-frequency engineering, signal processing, instrumentation, and electronics. Many of these disciplines overlap with other engineering branches, spanning a huge number of specializations including hardware engineering, power electronics, electromagnetics and waves, microwave engineering, nanotechnology, electrochemistry, renewable energies, mechatronics, and electrical materials science</p>
+                   
+                </section>
+                <section class="col-1-3">
+                        <h4>Mechanical Engineering</h4>
+                        <p>Mechanical engineering is the study, design, development, construction, and testing of mechanical and thermal sensors and devices, including tools, engines, and machines. ... Mechanical engineers work mostly in engineering services, research and development, and manufacturing. The mechanical engineering field requires an understanding of core areas including mechanics, dynamics, thermodynamics, materials science, structural analysis, and electricity. In addition to these core principles, mechanical engineers use tools such as computer-aided design (CAD), computer-aided manufacturing (CAM), and product lifecycle management to design and analyze manufacturing plants, industrial equipment and machinery, heating and cooling systems, transport systems, aircraft, watercraft, robotics, medical devices, weapons, and others. It is the branch of engineering that involves the design, production, and operation of machinery.</p>
+                      
+                </section>
+        </section>
+        <hr>
+
+        <footer>
+
+            <h3>For any queries, please visit us at</h3>
+            <div id="icons">
+            <a href="https://www.linkedin.com/" target="_blank">
+                <img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/>
+            </a>
+
+            <a href="https://www.facebook.com/" target="_blank">
+                <img src="https://img.icons8.com/color/100/000000/facebook.png"/>
+            </a>
+
+            <a href="https://twitter.com/" target="_blank">
+                <img src="https://img.icons8.com/color/100/000000/twitter-squared.png"/>
+            </a>
+
+            <a href="https://mail.google.com/" target="_blank">
+                <img src="https://img.icons8.com/color/100/000000/gmail.png"/>
+            </a>
+            </div>
+        </footer>
+        <small>&copy; shravya Buddupu </small>
+    </body>
+</html>
